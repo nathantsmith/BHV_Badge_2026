@@ -1,0 +1,18 @@
+# KiCad local/session files
+*.kicad_prl
+**/fp-info-cache
+_autosave-*
+
+#auto_saved_files#
+
+# KiCad lock files
+*.lck
+~*.lck
+
+# KiCad backups and archives
+*-backups/
+*.bak
+*.tmp
+
+# OS/editor noise
+.DS_Store
